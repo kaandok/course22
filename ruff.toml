@@ -1,0 +1,4 @@
+extend-exclude = ["tools", "slides", "clean", ".conda"]
+
+[lint]
+ignore = ["F405"]
